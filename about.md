@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Nice to meet you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+微信公众号：[测试一下](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI2MzE2NDczMw==&scene=124#wechat_redirect)
+[掘金](https://juejin.cn/user/3087084379442989)
+[简书](https://www.jianshu.com/u/6013a544da2d)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+wechat id：openmind365
