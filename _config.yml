@@ -6,7 +6,7 @@
 name: Deep Thinking Zone
 
 # Short bio or description (displayed in the header)
-description: 
+description: why why why
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://s3-imfile.feishucdn.com/static-resource/v1/b5af48e0-81cd-4478-9c71-63e4ffffe04g~?image_size=noop&cut_type=&quality=&format=image&sticker_format=.webp
@@ -18,10 +18,11 @@ avatar: https://s3-imfile.feishucdn.com/static-resource/v1/b5af48e0-81cd-4478-9c
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: daishenaocn@gmail.com
+  email: 
   facebook:
   flickr:
-  github:
+  github: 
+  wechat: sparknice
   instagram:
   linkedin:
   pinterest:
