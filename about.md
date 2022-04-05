@@ -5,12 +5,11 @@ permalink: /about/
 ---
 
 
-微信公众号：[测试一下](https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=MzI2MzE2NDczMw==&scene=124#wechat_redirect)
-<br/>
-[掘金](https://juejin.cn/user/3087084379442989)
-<br/>
-[简书](https://www.jianshu.com/u/6013a544da2d)
+注意每粒微尘的移动。
 
-### Contact me
+注意每个刚抵达的旅人。
 
-wechat id：openmind365
+注意他们每人想点的不同的菜。
+
+注意星怎样沉，日怎样升，所有河流怎样共奔大海。
+
